@@ -3,7 +3,9 @@
 『奇技淫巧』一词出自古籍《书·泰誓下》，指新奇的技艺和作品。 此词意与本书内容十分契合，因此书名借用该词。<br>
 本书向您分享一系列新奇、有趣、有技术含量的JavaScript编程技术。<br>
 <br>
+<b>Copyright © https://www.jshaman.com/</b><br>
 <b>作者：JShaman.com w2sft</b><br>
+<br>
 本书尚在持续更新中...如您有任何建议或意见，请与我联系。<br>
 <h2>目录</h2>
 JavaScript奇技淫巧：防删水印	1<br>
@@ -46,4 +48,4 @@ JavaScript奇技淫巧：混淆加密技术探究	190<br>
 JavaScript奇技淫巧：清理无效代码	227<br>
 JavaScript奇技淫巧：debugger拦截	229<br>
 JavaScript奇技淫巧：执行“二进制”代码	234<br>
-... ...
+等... ...
