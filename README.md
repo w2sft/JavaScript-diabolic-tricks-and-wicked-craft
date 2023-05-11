@@ -7,6 +7,8 @@
 <b>作者：JShaman.com w2sft</b><br>
 <br>
 本书尚在持续更新中...如您有任何建议或意见，请与我联系。<br>
+<h2>捐助</h2>
+https://paypal.me/w2sft?country.x=C2&locale.x=zh_XC
 <h2>目录</h2>
 JavaScript奇技淫巧：防删水印	1<br>
 JavaScript奇技淫巧：图片加密	5<br>
