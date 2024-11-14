@@ -50,5 +50,5 @@ JavaScript奇技淫巧：混淆加密技术探究	190<br>
 JavaScript奇技淫巧：清理无效代码	227<br>
 JavaScript奇技淫巧：debugger拦截	229<br>
 JavaScript奇技淫巧：执行“二进制”代码	234<br>
-JavaScript奇技淫巧：32进制加密<br>
+JavaScript奇技淫巧：32进制加密 237<br>
 等... ...
